@@ -11,6 +11,8 @@ A collection of my projects
 |Project Name|Description|SQL Functions Used|
 |---|---|---|
 |Test|Here|Now|
+|Test|Here|Now|
+|Test|Here|Now|
 
 # Python
 
