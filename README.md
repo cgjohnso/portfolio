@@ -8,11 +8,11 @@ A collection of my projects
 - [Tableau](#Tableau)
 
 # SQL
-|Project Name|Description|SQL Functions Used|
+|Project Name|Description|Functions Used|
 |---|---|---|
-|Test|Here|Now|
-|Test|Here|Now|
-|Test|Here|Now|
+||||
+||||
+||||
 
 # Python
 
