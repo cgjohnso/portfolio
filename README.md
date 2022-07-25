@@ -10,6 +10,7 @@ A collection of my projects
 # SQL
 |Project Name|Description|SQL Functions Used|
 |---|---|---|
+|Test|Here|Now|
 
 # Python
 
