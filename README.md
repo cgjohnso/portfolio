@@ -23,7 +23,7 @@ A collection of my projects
 ||||
 
 # Tableau
-|Project Name|Description|Libraries Used|
+|Project Name|Description|Dashboard|
 |---|---|---|
 ||||
 ||||
