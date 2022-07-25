@@ -16,4 +16,10 @@ A collection of my projects
 
 # Python
 
+|Project Name|Description|Libraries Used|
+|---|---|---|
+||||
+||||
+||||
+
 # Tableau
