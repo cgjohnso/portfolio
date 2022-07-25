@@ -1,8 +1,8 @@
 # Portfolio
 A collection of my projects
 
-# SQL
+## SQL
 
-# Python
+## Python
 
-# Tableau
+## Tableau
