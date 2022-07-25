@@ -1,8 +1,14 @@
 # Portfolio
 A collection of my projects
 
-## SQL
+# Table of Contents
 
-## Python
+- [SQL](#SQL)
+- [Python](#Python)
+- [Tableau](#Tableau)
 
-## Tableau
+# SQL
+
+# Python
+
+# Tableau
