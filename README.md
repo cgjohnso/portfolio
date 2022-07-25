@@ -1,5 +1,5 @@
 # Portfolio
-A collection of my projects
+A collection of my projects.
 Click the project name to be directed to all related project files.
 
 # Table of Contents
