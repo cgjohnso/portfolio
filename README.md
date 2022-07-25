@@ -17,7 +17,8 @@ A collection of my projects
 # Python
 
 |Project Name|Description|Subject Area|Libraries Used|
-|---|---|---|
+|---|---|---|---|
+||||
 ||||
 ||||
 ||||
